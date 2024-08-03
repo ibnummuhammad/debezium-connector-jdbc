@@ -15,7 +15,6 @@ activemq-data/
 .vscode/
 build/
 deploy/
-target/
 mods/
 *.swp
 epom
